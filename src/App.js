@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         First commit
+          Learn React and CICD
+          over here
         </a>
       </header>
     </div>
